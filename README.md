@@ -1,2 +1,3 @@
-# Web aplication - React
-Projeto DIO
+# Web application - React
+Projeto DIO :computer:
+
